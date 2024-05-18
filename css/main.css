@@ -7,7 +7,7 @@
 }
 
 body {
-  background: var(--mainWhite);
+  background-color: #FFD966;
   color: var(--mainDark);
 }
 .budget-feedback,
